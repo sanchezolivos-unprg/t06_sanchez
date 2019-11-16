@@ -18,7 +18,7 @@ print(mc)
 # VERIFICADOR
 validez=(haltura<=158.5)
 
-# CONDICION DOBLE
+# CONDICIONAL DOBLE
 # si su haltura es menor o igual a 158.5 es chato
 if(validez==True):
     print("ES CHATO")
