@@ -14,7 +14,7 @@ print(idiomas)
 # VERIFICADOR
 cantidad_idiomas=(idiomas>3)
 
-# CONDICINAL SIMPLE
+# CONDICINAL DOBLE
 # si sabe mas de 3 idiiomas es inteligente
 if(cantidad_idiomas==True):
     print("eres muy inteligente")

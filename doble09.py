@@ -16,7 +16,7 @@ fuerza_electrica=(Q1*Q2*9)/distancia_metros**2
 # VERIFICADOR
 verificador=(fuerza_electrica>300)
 
-# CONDICION SIMPLE
+# CONDICION DOBLE
 # si la fuerza electrica es mayor que 300 las cargas estan muy cargadas
 if(verificador==True):
     print("las cargas estan muy cargadas")

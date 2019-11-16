@@ -32,7 +32,7 @@ print("#############################")
 print("GOLES EN TOTAL=", total_goles)
 print("############################")
 
-# CONDICION SIMPLE
+# CONDICION DOBLE
 # si el jugador anota mas o igual de 48 es un goleador
 if(goleador==True):
     print("FELICITACIONNES ERES UN GOLEADOR")

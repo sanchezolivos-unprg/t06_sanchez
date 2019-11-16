@@ -25,7 +25,7 @@ print(nota5)
 # VERIFICADOR
 promedio_alto=(promedio>50)
 
-# CONDICION SIMPLE
+# CONDICION DOBLE
 # si el promedio es mayor que 50 estara aprobado
 if(promedio_alto==True):
     print("aprobado")

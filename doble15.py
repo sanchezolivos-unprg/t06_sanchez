@@ -27,7 +27,7 @@ print("IGV=", igv)
 print("#############################")
 print("IMPORTE TOTAL=", importe_total)
 
-# CONDICION SIMPLE
+# CONDICION DOBLE
 # si el señor consume bastante gana combustible una semana gratis
 if(consume_bastante==True):
     print("ganaste conbustible por una semana")
