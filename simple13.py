@@ -14,5 +14,5 @@ diferencia=(lado1!=lado2)
 # CONDICION SIMPLE
 # si ambos lados son diferentes es un rectangulo
 if(diferencia==True):
-    print(("ES UN RECTANGULO"))
+    print("ES UN RECTANGULO")
 # fin_if
