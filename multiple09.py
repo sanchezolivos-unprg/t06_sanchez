@@ -18,7 +18,7 @@ hipotenusa= math.sqrt(cat1**2+cat2**2)
 print("hipotenusa=", hipotenusa)
 
 # CONDICIONAL MULTIPLE
-# si el la hipotenusa es mayor que 10 es muy grande
+# si en la hipotenusa cumplen las siguientes condiciones el triangulo es
 if(hipotenusa>10.0 and hipotenusa<20.0):
     print("el triangulo rectangulo es pequeño")
 
