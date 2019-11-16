@@ -20,7 +20,7 @@ print(cat2)
 triangulo=(hipotenusa>6.0)
 
 # CONDICIONAL SIMPLE
-# si el la hipotenusa es mayor que 10 es muy grande
+# si el la hipotenusa es mayor que 6 es muy grande
 if(triangulo==True):
     print("ES GRANDE")
 else:
