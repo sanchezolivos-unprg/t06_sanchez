@@ -18,7 +18,7 @@ climatologia=(clima_grados_cent+velocidad_viento)
 # VERIFICADOR
 temperatura=(climatologia<17)
 
-# CODICIONAL SIMPLE
+# CODICIONAL DOBLE
 # si la temperatura del lugar es menor que 17 hace bastante frio
 if(temperatura==True):
     print("HACE BASTANTE FRIO")
