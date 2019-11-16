@@ -27,7 +27,7 @@ cantidad_total=(cantidad_guitarras+cantidad_tambores+cantidad_baterias+cantidad_
 # VERIFICADOR
 verificador=(cantidad_total>21)
 
-# CONDICION DOBLE
+# CONDICIONAL DOBLE
 # si la cantidad total de instrumentos es mayor que 21 pertenece a una banda musical
 if(verificador==True):
     print("perteneces a una banda musical")
