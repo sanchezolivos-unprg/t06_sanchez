@@ -17,7 +17,7 @@ area=(largo*ancho)
 # VERIFICADOR
 rectangulo=(area>=20)
 
-# CONDICION DOBLE
+# CONDICIONAL DOBLE
 # si el area del rectangulo es mayor o igual que 20 es muy grande
 if(rectangulo==True):
 	print("ES MUY GRANDE")
