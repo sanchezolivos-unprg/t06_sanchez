@@ -19,7 +19,7 @@ total=(ejrs1+ejrs2+ejrs3+ejrs4+ejrs5+ejrs6+ejrs7+ejrs8)
 # VERIFICADOR
 ejrcs_resueltos=(total<=75)
 
-# CONDICION DOBLE
+# CONDICIONAL DOBLE
 # si el total de ejercisios resueltos es menor o igual que 75 jalaste el curso
 if(ejrcs_resueltos==True):
     print("JALASTE EL CURSO")
