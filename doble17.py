@@ -27,7 +27,7 @@ print("#################################")
 print("AREA=", area)
 
 # CONDICION SIMPLE
-# si el trapecio es mayor o igual que 15 es demasiado grande
+# si el trapecio es mayor o igual que 12 es demasiado grande
 if(trapecio==True):
     print("demasiado grande")
 else:
