@@ -37,7 +37,7 @@ print(asistencia8)
 total=(asistencia1+asistencia2+asistencia3+asistencia4+asistencia5+asistencia6+asistencia7+asistencia8)
 print("total de asistencias:", total)
 
-# CONDICION MULTIPLE
+# CONDICIONAL MULTIPLE
 # si el condicion multiple son validadas de cumple que
 if(total==0):
     print("NUNCA ASISTE")
