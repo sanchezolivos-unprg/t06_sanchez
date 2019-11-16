@@ -33,7 +33,7 @@ print("####################################")
 print("CANCELAR=", total)
 print("####################################")
 
-# CONDICION SIMPLE
+# CONDICION DOBLE
 # si el total es mayor que 25 consume mucho
 if(pago==True):
     print("CONSUME MUCHO")

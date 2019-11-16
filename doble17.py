@@ -26,7 +26,7 @@ print("HALTURA=", haltura)
 print("#################################")
 print("AREA=", area)
 
-# CONDICION SIMPLE
+# CONDICION DOBLE
 # si el trapecio es mayor o igual que 12 es demasiado grande
 if(trapecio==True):
     print("demasiado grande")
