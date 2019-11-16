@@ -12,7 +12,7 @@ contraseña=os.sys.argv[2]
 print(usuario)
 print(contraseña)
 
-# CONDICIONES MULTIPLES
+# CONDICION MULTIPLE
 # si las siguientes condicion multiple son validadas se cumple que
 if(usuario=="damian" and contraseña=="$%srt"):
     print("cuenta OK")
